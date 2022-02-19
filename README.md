@@ -1,7 +1,7 @@
 # product-landing-page-project
 
-Travel Site - Product Landing Page for freeCodeCamp
+"Travel Site" Product Landing Page using HTML & CSS.
 
-This will be a part of my coding journey.
+You can check it out here:
 
-See it live here: https://neilbasalo.github.io/product-landing-page-project/
+https://neilbasalo.github.io/product-landing-page-project/
