@@ -1,6 +1,6 @@
 # product-landing-page-project
 
-"Travel Site" Product Landing Page using HTML & CSS.
+"Travel Site" Product Landing Page Project using HTML & CSS.
 
 You can check it out here:
 
